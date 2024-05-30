@@ -1,0 +1,10 @@
+1, A comprehensive study on the effects of climate change on polar bears, 2022-01-15, 2023-01-15, Climate Change Impact on Polar Bears, Nature, Significant habitat loss observed
+2, An analysis of the economic impacts of remote work during the COVID-19 pandemic, 2021-05-01, 2022-05-01, Economic Impact of Remote Work, Economic Journal, Productivity increased but challenges in team collaboration
+3, Exploring the potential of quantum computing in solving complex mathematical problems., 2020-03-20, 2022-09-30, Quantum Computing Applications, Journal of Computational Science, Promising results in algorithm efficiency.
+4, The role of diet and exercise in managing diabetes in middle-aged adults., 2019-08-10, 2021-08-10, Managing Diabetes through Lifestyle, Medical Research, Combined approach most effective.
+5, A study on the genetic basis of resistance to antibiotics in bacteria., 2020-11-01, 2022-11-01, Antibiotic Resistance Genetics, Microbiology Today, Identified key genetic mutations.
+6, Investigating the psychological effects of social media usage on teenagers., 2021-02-14, 2023-02-14, Social Media and Teen Mental Health, Psychology and Society, Increased anxiety and depression rates.
+7, The effectiveness of renewable energy sources in reducing carbon footprints., 2018-07-01, 2020-07-01, Renewable Energy and Carbon Footprints, Environmental Science, Solar and wind power most effective.
+8, Studying the impact of artificial intelligence on job market trends., 2021-09-01, 2023-09-01, AI and Job Market Dynamics, Technology Review, Automation replacing certain job sectors.
+9, Evaluating the long-term health effects of a plant-based diet., 2017-04-05, 2020-04-05, Health Benefits of Plant-Based Diets, Nutrition and Health, Reduced risk of chronic diseases.
+10, Research on the advancements in cancer treatment through immunotherapy., 2019-12-12, 2022-12-12, Immunotherapy in Cancer Treatment, Oncology Research, Significant improvements in patient survival rates.
